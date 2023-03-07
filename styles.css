@@ -180,6 +180,9 @@ Countdown Timer
 .gift-img {
   margin-bottom: 2rem;
 }
+.img-gift {
+  border-radius: 15px;
+}
 .gift-info h3 {
   text-transform: uppercase;
   color: var(--clr-primary-3);
